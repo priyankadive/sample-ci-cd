@@ -21,3 +21,5 @@ For testing you can run this "Hello world" app with following command:
 
 #java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App
 Hello World!
+
+maven example used from https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
