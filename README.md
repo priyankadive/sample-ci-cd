@@ -1,5 +1,7 @@
 # sample-ci-cd
+
 Required jenkins plugin: GitHub Plugin, maven plugin.
+Add jenkins webhook URL in Git project integration.
 
 1.Create jenkins job with maven plugin
 
